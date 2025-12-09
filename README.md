@@ -5,7 +5,7 @@
 
 **• Tableau**
 
-**• Statistics**
+**• Python**
 
 ## STEPS:
 
